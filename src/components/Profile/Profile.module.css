@@ -43,13 +43,13 @@
   list-style: none;
 }
 
-.stats li {
+.statsItem {
   flex: 1;
   padding: 15px;
   border-right: 1px solid #ccc;
 }
 
-.stats li:last-child {
+.statsItem:last-child {
   border-right: none;
 }
 

@@ -1,4 +1,4 @@
-ul.friend-list {
+.friendList {
   display: flex;
   gap: 12px;
   justify-content: center;
@@ -8,6 +8,6 @@ ul.friend-list {
   list-style: none;
 }
 
-.friend-list li {
+.friendListItem {
   margin: 0;
 }

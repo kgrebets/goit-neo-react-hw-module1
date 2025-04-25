@@ -1,4 +1,3 @@
-import "./App.css";
 import { userData } from "../../userData";
 import { friends } from "../../friendsData";
 import { transactions } from "../../transactions";

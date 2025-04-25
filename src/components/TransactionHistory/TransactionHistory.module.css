@@ -1,4 +1,4 @@
-.transaction-table {
+.transactionTable {
   min-width: 80%;
   border-collapse: collapse;
   font-family: sans-serif;
@@ -6,21 +6,21 @@
   margin: auto;
 }
 
-.transaction-table thead {
+.transactionTable thead {
   background-color: #2d2d2d;
   color: white;
 }
 
-.transaction-table th,
-.transaction-table td {
+.transactionTable th,
+.transactionTable td {
   padding: 12px 16px;
   border: 1px solid #ccc;
 }
 
-.transaction-table tbody tr:nth-child(even) {
+.transactionTable tbody tr:nth-child(even) {
   background-color: #e2e2e2;
 }
 
-.transaction-table td:first-child {
+.transactionTable td:first-child {
   text-transform: capitalize;
 }
